@@ -1,0 +1,6 @@
+ID,name,department,Age,salary,Years_of_Experience,Joining_Date,Gender,Bonus,Rating,Performance_Category,Tax
+101,John,HR,29,50000,5,2018-01-15,Male,5000,4.5,Excellent,5000.0
+102,Alice,IT,34,70000,8,2016-03-22,Female,7000,4.8,Excellent,7000.0
+103,Bob,IT,41,65000,10,2014-07-10,Male,6000,4.2,Good,6500.0
+104,Eve,Marketing,28,55000,3,2019-11-05,Female,4000,4.0,Good,5500.0
+105,Charlie,Sales,38,60000,12,2012-05-30,Male,8000,4.7,Excellent,6000.0
